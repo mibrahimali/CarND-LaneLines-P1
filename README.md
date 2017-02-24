@@ -77,12 +77,12 @@ Final Output of Lane Finding Pipeline
 
 Potential shortcomings
 ---
-1-this pipeline depend on detecting and segments white and yellow colors. which will fail in case of night or shadows
-2- many tunnable parameters to detect lanes can be hard to optimize
+1-this pipeline depend on detecting and segments white and yellow colors. which will fail in case of night or shadows.  
+2- many tunnable parameters to detect lanes can be hard to optimize.  
 
 
 Possible improvements
 ---
-1- Enhancing this pipeline by using fusion algorithms to fuse output from multiple techniques and also track the lane information in case of non-detection scenarios
-2- Using Deep Learning Algorithms to train a new pipeline work on all situations 
+1- Enhancing this pipeline by using fusion algorithms to fuse output from multiple techniques and also track the lane information in case of non-detection scenarios.  
+2- Using Deep Learning Algorithms to train a new pipeline work on all situations.   
 
