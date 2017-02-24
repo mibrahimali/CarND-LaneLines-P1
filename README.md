@@ -1,7 +1,7 @@
 #**Finding Lane Lines on the Road** 
 
+![picture](pipeline_pictures/Final_image.png?raw=true)
 
-![Alt text](./pipeline_pictures/Final_image.png?raw=true )
 
 Overview
 ---
