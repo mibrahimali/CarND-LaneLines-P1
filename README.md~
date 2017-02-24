@@ -45,8 +45,15 @@ By croping only a Region of Interset where lanes of Ego car is moving in, while 
 Cropped Edges 
 <img src="./pipeline_pictures/masked_canny_edges.jpg" width="480" alt="Combined Image" />
 
-**Step 5:** Complete the project and submit both the Ipython notebook and the project writeup
+**Step 5:** Line Segments Detection
+Using Hough Transform of edges outputed from Canny operator will results in finding most suitable line segmants in image. 
 
+<img src="./pipeline_pictures/Hough_Lines.jpg" width="480" alt="Combined Image" />
+
+**Step 6:** Connecting Lane Lines
+
+
+<img src="./pipeline_pictures/Final_image.jpg" width="480" alt="Combined Image" />
 
 Final Output of Lane Finding Pipeline
 ---
